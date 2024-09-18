@@ -36,7 +36,7 @@
 - 2014.02 ~ 2020.08
 - 이수학점 152점
 - 누적 평점 3.74/4.5
-- [관련 수업 이수 내역](https://github.com/hongdoojung/RESUME/blob/master/COURSE.md)
+- [관련 수업 이수 내역](https://github.com/hongdoojung/RESUME/blob/master/COURSE.md)
 
 # 경력
 
