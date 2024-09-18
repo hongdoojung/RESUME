@@ -1,12 +1,10 @@
-아직 작성중입니다~~~
-
 # 프로필
 
 - 이름: 정홍두
 - 생일: 1995.11.27
 - 지역: 서울
 
-안녕하세요. 저는 기술로써 가치를 가져오는 일을 좋아하는 엔지니어입니다. 문제 해결을 위한 다각적인 접근 방법을 고려하며 따라서 공부, 커뮤니케이션, 리더십, 빠른 속도, 지속가능한 과정, 피드백 문화 등 전반에 관심이 있습니다.
+안녕하세요. 저는 기술로써 세상에 가치를 만드는 일을 좋아하는 엔지니어입니다. 문제 해결을 위해서 새로운 지식을 쌓는 것, 커뮤니케이션, 리더십, 빠른 속도, 지속가능한 과정, 피드백 문화 등 전반에 관심이 있습니다.
 
 # 기술
 
@@ -83,11 +81,6 @@ Backend Developer
 
 # 외부 활동
 
-## 프로그래밍 동아리 Forif에서 Django 멘토 활동
-
-- 한양대학교 프로그래밍 동아리 FORIF에서 멘토로서 스터디를 이끌었습니다.
-- https://www.youtube.com/@hongdoojung9574
-
 ## 기술 세션
 
 - 2022.02 ~ 2022.12
@@ -96,22 +89,37 @@ Backend Developer
   - Database Internals 책 스터디
   - 데이터중심 애플리케이션 설계
   - %%아직 작성중%%
+ 
+## 프로그래밍 동아리 Forif에서 Django 멘토 활동
+
+- 한양대학교 프로그래밍 동아리 FORIF에서 멘토로서 스터디를 이끌었습니다.
+- https://www.youtube.com/@hongdoojung9574
 
 # 프로젝트
+
+## the DeveloperWeek AI/ML 2024 Hackathon in San Francisco - [Linkedin update](https://www.linkedin.com/feed/update/urn:li:activity:7212767328386568192/)
+
+- Together we built an personalized AI assistant that helps everyone organize YouTube shorts, reels and tiktoks, etc. The problem we tackled is all too familiar: we watch & save countless videos, but rarely revisit them due to the difficulty of finding and remembering what we've saved. Our solution uses cutting-edge tech to change that. Our agent, built on a robust tech stack featuring AWS Bedrock, Knowledge Bases for Bedrock, LaunchDarkly, NextJS, and Flask, learns users' preferences and categorizes their saved videos into personalized collectio
+
+## Junction X 2021 Seoul 해커톤 - [Github repo](https://github.com/TheFootball/server)
+
+- 1:N football game web app specialized to streamer and viewer relationship. AWS Game tech track.
 
 ## 두근두근한양 - [Github repo](https://github.com/weehan-dev/dodohan)
 
 - 2019.09.15 ~ 2019.09.23
 - JS, MongoDB
-- 위한이 한양대학교 학생들에게만 제공하던 매칭 프로그램을 축제를 맞아 이벤트성으로 외부 학교의 신청을 받고 매칭해주는 프로그램을 만들었습니다. 매칭을 위해 사람들에게 구글 설문지를 만들어 신청하도록 했습니다. 받은 신청서를 csv 형식으로 파싱하고 매칭 알고리즘으로 매칭되도록 했습니다. 매칭 알고리즘을 알아보고 도입하는 과정이 있었고, 매칭 이후 결과는 MongoDB에 저장 후 축제 당일에 SMS 및 메일로 결과를 발송해줬습니다. 약 500명 가량 참여하며 성공적으로 프로젝트를 마무리 할 수 있었습니다.
-
-## 해커톤
-
-%%작성중%%
+- 위한이 한양대학교 학생들에게만 제공하던 매칭 프로그램을 축제를 맞아 이벤트성으로 외부 학교의 신청을 받고 매칭해주는 프로그램을 만들었습니다. 매칭을 위해 사람들에게 구글 설문지를 만들어 신청하도록 했습니다. 받은 신청서를 csv 형식으로 파싱하고 제가 만든 매칭 알고리즘으로 매칭되도록 했습니다. 매칭 알고리즘을 알아보고 도입하는 과정이 있었고, 매칭 이후 결과는 MongoDB에 저장 후 축제 당일에 SMS 및 메일로 결과를 발송해줬습니다. 약 500명 가량 참여하며 성공적으로 프로젝트를 마무리 할 수 있었습니다.
 
 # 리더십
 
 %%작성중%%
+- 이오 스튜디오 테크리드
+- 이오 스튜디오에서 두 달간 San Francisco로 출장가서 유저 인터뷰 등 PMF를 찾기위한 활동 진행
+- 주식회사 로앤굿 테크리드
+- 주식회사 모예 초기멤버
+- 포리프 멘토
+- 전공수업 시스템 프로그래밍 멘토
 
 # 언어
 
