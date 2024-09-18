@@ -44,6 +44,7 @@ Technical Lead
 대한민국 서울
 Lead Programmer of Global Product Team
 - LLM, embedding, Vector search 등 활용하여 비디오 인터뷰 자료를 기사로 만드는 툴 개발
+- 두 달간 San Francisco로 출장가서 유저 인터뷰 및 빠른 MVP 개발 등 PMF를 찾기위한 활동 진행
 
 ## 로앤굿
 Technical Lead
@@ -86,13 +87,15 @@ Backend Developer
 - 2022.02 ~ 2022.12
 - 개발자들과 공부한 내용을 공유하는 기술 세션을 진행했습니다.
 - 세션에서 발표한 내용
-  - Database Internals 책 스터디
-  - 데이터중심 애플리케이션 설계
-  - %%아직 작성중%%
+  - 데이터중심 애플리케이션 설계 책 스터디 (https://naminica.notion.site/fa604fbdfef14f6ab011bec012f130d1?v=37979dbf522c4118b52d7626a732f566&pvs=4)
+  - 카프카 스터디 (https://separated-guanaco-64b.notion.site/86db462562d04f6a92b834073a315daa?pvs=4)
+  - Document DB (https://separated-guanaco-64b.notion.site/Document-DB-105f3b634110806bb616f1263ae235b8?pvs=4)
+  - Airflow (https://separated-guanaco-64b.notion.site/Airflow-105f3b634110805885dcc9ba035fa72c?pvs=4)
+  - Django 테스트코드 (https://separated-guanaco-64b.notion.site/Django-105f3b634110800db75aef874b023bf2?pvs=4)
  
 ## 프로그래밍 동아리 Forif에서 Django 멘토 활동
 
-- 한양대학교 프로그래밍 동아리 FORIF에서 멘토로서 스터디를 이끌었습니다.
+- 한양대학교 프로그래밍 동아리 FORIF에서 멘토로 Django 스터디를 이끌었습니다.
 - https://www.youtube.com/@hongdoojung9574
 
 # 프로젝트
@@ -113,7 +116,6 @@ Backend Developer
 
 # 리더십
 
-%%작성중%%
 - 이오 스튜디오 테크리드
 - 이오 스튜디오에서 두 달간 San Francisco로 출장가서 유저 인터뷰 등 PMF를 찾기위한 활동 진행
 - 주식회사 로앤굿 테크리드
