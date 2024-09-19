@@ -40,9 +40,9 @@
 
 ## EO STUDIO
 Technical Lead
-2024년 4월 - Present (6개월)
-대한민국 서울
-Lead Programmer of Global Product Team
+- 2024년 4월 - Present (6개월)
+- 대한민국 서울
+- Lead Programmer of Global Product Team
 - LLM, embedding, Vector search 등 활용하여 비디오 인터뷰 자료를 기사로 만드는 툴 개발
 - 두 달간 San Francisco로 출장가서 유저 인터뷰 및 빠른 MVP 개발 등 PMF를 찾기위한 활동 진행
 
