@@ -40,7 +40,7 @@
 
 ## EO STUDIO
 Technical Lead
-- 2024년 4월 - Present (6개월)
+- 2024년 4월 - Present
 - 대한민국 서울
 - Lead Programmer of Global Product Team
 - LLM, embedding, Vector search 등 활용하여 비디오 인터뷰 자료를 기사로 만드는 툴 개발
@@ -117,7 +117,7 @@ Backend Developer
 # 리더십
 
 - 이오 스튜디오 테크리드
-- 이오 스튜디오에서 두 달간 San Francisco로 출장가서 유저 인터뷰 등 PMF를 찾기위한 활동 진행
+- 이오 스튜디오에서 두 달간 San Francisco에서 유저 인터뷰 등 PMF를 찾기위한 활동 진행
 - 주식회사 로앤굿 테크리드
 - 주식회사 모예 초기멤버
 - 포리프 멘토
