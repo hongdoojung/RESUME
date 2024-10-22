@@ -87,11 +87,11 @@ Backend Developer
 - 2022.02 ~ 2022.12
 - 개발자들과 공부한 내용을 공유하는 기술 세션을 진행했습니다.
 - 세션에서 발표한 내용
-  - 데이터중심 애플리케이션 설계 책 스터디 (https://naminica.notion.site/fa604fbdfef14f6ab011bec012f130d1?v=37979dbf522c4118b52d7626a732f566&pvs=4)
-  - 카프카 스터디 (https://separated-guanaco-64b.notion.site/86db462562d04f6a92b834073a315daa?pvs=4)
-  - Document DB (https://separated-guanaco-64b.notion.site/Document-DB-105f3b634110806bb616f1263ae235b8?pvs=4)
-  - Airflow (https://separated-guanaco-64b.notion.site/Airflow-105f3b634110805885dcc9ba035fa72c?pvs=4)
-  - Django 테스트코드 (https://separated-guanaco-64b.notion.site/Django-105f3b634110800db75aef874b023bf2?pvs=4)
+  - [데이터중심 애플리케이션 설계 책 스터디](https://naminica.notion.site/fa604fbdfef14f6ab011bec012f130d1?v=37979dbf522c4118b52d7626a732f566&pvs=4)
+  - [카프카 스터디](https://separated-guanaco-64b.notion.site/86db462562d04f6a92b834073a315daa?pvs=4)
+  - [Document DB](https://separated-guanaco-64b.notion.site/Document-DB-105f3b634110806bb616f1263ae235b8?pvs=4)
+  - [Airflow](https://separated-guanaco-64b.notion.site/Airflow-105f3b634110805885dcc9ba035fa72c?pvs=4)
+  - [Django 테스트코드](https://separated-guanaco-64b.notion.site/Django-105f3b634110800db75aef874b023bf2?pvs=4)
  
 ## 프로그래밍 동아리 Forif에서 Django 멘토 활동
 
