@@ -67,11 +67,11 @@ Hello, I am an engineer passionate about creating value through technology. I am
 ## Technical Sessions
 - Period: February 2022 – December 2022
 - Led knowledge-sharing sessions with developers on various topics, including:
-  - Data-Centric Application Design Study Link (https://naminica.notion.site/fa604fbdfef14f6ab011bec012f130d1?v=37979dbf522c4118b52d7626a732f566&pvs=4)
-  - Kafka (https://separated-guanaco-64b.notion.site/86db462562d04f6a92b834073a315daa?pvs=4)
-  - Document DB (https://separated-guanaco-64b.notion.site/Document-DB-105f3b634110806bb616f1263ae235b8?pvs=4)
-  - Airflow (https://separated-guanaco-64b.notion.site/Airflow-105f3b634110805885dcc9ba035fa72c?pvs=4)
-  - Django Testing (https://separated-guanaco-64b.notion.site/Django-105f3b634110800db75aef874b023bf2?pvs=4)
+  - [Data-Centric Application Design Study Link](https://naminica.notion.site/fa604fbdfef14f6ab011bec012f130d1?v=37979dbf522c4118b52d7626a732f566&pvs=4)
+  - [Kafka](https://separated-guanaco-64b.notion.site/86db462562d04f6a92b834073a315daa?pvs=4)
+  - [Document DB](https://separated-guanaco-64b.notion.site/Document-DB-105f3b634110806bb616f1263ae235b8?pvs=4)
+  - [Airflow](https://separated-guanaco-64b.notion.site/Airflow-105f3b634110805885dcc9ba035fa72c?pvs=4)
+  - [Django Testing](https://separated-guanaco-64b.notion.site/Django-105f3b634110800db75aef874b023bf2?pvs=4)
 
 ## Mentor at FORIF Programming Club
 - Mentored students in Django studies at Hanyang University’s FORIF programming club
