@@ -2,7 +2,7 @@
 | :----------------------------------------------: | :------------------------------------------------: | :----------: | :------------: | :-----------------: |
 | 창의적컴퓨팅                                     | Creative Computing                                |     4.50     |       3        |       2018-2        |
 | 이산수학                                         | Discrete Mathematics                              |     4.00     |       3        |       2018-2        |
-| 창의적소프트웨어프로그래밍                       | Creative Software Design                     |     3.50     |       4        |       2018-2        |
+| 창의적소프트웨어프로그래밍                       | Creative Software Design                     |     3.50     |       4        |       2018-2        |
 | 창의적프로그래밍                                 | Creative Programming                              |     4.50     |       2        |       2018-2        |
 | 머신러닝·딥러닝·블록체인입문                    | Introduction to Machine Learning, Deep Learning and Blockchain	 |     4.50     |       3        |       2018-2        |
 | 미분적분학1                                      | Calculus 1                                        |     2.50     |       3        |       2019-1        |
