@@ -3,7 +3,7 @@
 - Date of Birth: November 27, 1995
 - Location: Seoul, South Korea
 
-Hello, I am an engineer passionate about creating value through technology. I am driven by problem-solving, acquiring new knowledge, fostering communication, leadership, and maintaining sustainable processes. I value a fast-paced environment and feedback culture.
+Hello, I am a software engineer who values problem-solving, effective communication, and collaborative leadership. I am dedicated to creating meaningful solutions through technology and thrive in environments that encourage learning and feedback.
 
 # Skills
 ## Programming Languages
