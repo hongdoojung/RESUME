@@ -25,8 +25,8 @@ Hello, I am an engineer passionate about creating value through technology. I am
 - Major: Economics and Finance
 - Minor: Humanities Software
 - Period: February 2014 – August 2020
-- Completed Credits: 152
 - GPA: 3.74 / 4.5
+- Completed Credits: 152
 - [Relevant Coursework](https://github.com/hongdoojung/RESUME/blob/master/COURSE.md)
 
 # Work Experience
@@ -41,26 +41,29 @@ Hello, I am an engineer passionate about creating value through technology. I am
 - Location: Seoul, South Korea
 - Period: March 2022 – March 2024
 - Built a lawyer-matching platform using FastAPI, Django, and Django Ninja
-- Developed a reliable payment module and established unit testing and monitoring systems
+- Developed a reliable payment module
 - Redesigned infrastructure using AWS Elastic Beanstalk, AWS Lambda, GCP Cloud Run, and IaC (Terraform)
 - Created data pipelines with GCP BigQuery, Airflow, Mixpanel, and Google Data Studio
-- Developed an AI chatbot for legal services Read Article
-- Established an agile development culture to align technical efforts with business goals
-- Completed Google Cloud Academy’s APAC Course
+- Developed an AI chatbot for legal services
+- Established an agile development culture
+- Completed Google Cloud Academy for start ups APAC Course
 
 ## ZeroXflow – Backend Developer
 - Location: Seoul, South Korea
 - Period: December 2020 – March 2022
 - Designed a serverless backend with Django REST Framework (DRF)
-- Implemented CI/CD pipelines and optimized legacy APIs for better performance and cost efficiency
-- Developed payment systems and applied TDD within the team
+- Implemented CI/CD pipelines
+- Optimized legacy APIs for better performance and cost efficiency
+- Developed payment systems
+- Applied TDD within the team
 - Built data pipelines with Google BigQuery and Data Studio
 
 ## Moye – Backend Developer
 - Location: Seoul, South Korea
 - Period: January 2020 – December 2020
-- Solely responsible for backend development, deployment, and infrastructure setup as an early-stage team member
-- Developed serverless backend architecture and implemented payment servers
+- Solely responsible for backend development and infrastructure setup as an early-stage team member
+- Developed serverless backend architecture
+- Developed payment modules
 - Improved server performance and built logging and monitoring systems
 
 # External Activities
@@ -74,12 +77,11 @@ Hello, I am an engineer passionate about creating value through technology. I am
   - [Django Testing](https://separated-guanaco-64b.notion.site/Django-105f3b634110800db75aef874b023bf2?pvs=4)
 
 ## Mentor at FORIF Programming Club
-- Mentored students in Django studies at Hanyang University’s FORIF programming club
+- Mentored students in Django studies at Hanyang University’s programming club FORIF
 - https://www.youtube.com/@hongdoojung9574
 
 # Projects
 ## the DeveloperWeek AI/ML 2024 Hackathon in San Francisco - [Linkedin update](https://www.linkedin.com/feed/update/urn:li:activity:7212767328386568192/)
-
 - Together we built an personalized AI assistant that helps everyone organize YouTube shorts, reels and tiktoks, etc. The problem we tackled is all too familiar: we watch & save countless videos, but rarely revisit them due to the difficulty of finding and remembering what we've saved. Our solution uses cutting-edge tech to change that. Our agent, built on a robust tech stack featuring AWS Bedrock, Knowledge Bases for Bedrock, LaunchDarkly, NextJS, and Flask, learns users' preferences and categorizes their saved videos into personalized collection
 
 ## Junction X Seoul Hackathon (2021)
@@ -90,7 +92,7 @@ Hello, I am an engineer passionate about creating value through technology. I am
 - Period: September 15, 2019 – September 23, 2019
 - Created a matchmaking program for Hanyang University festival
 - Implemented matching algorithms and sent results via SMS and email
-- GitHub Repository
+- [GitHub Repository](https://github.com/TheFootball)
 
 # Leadership
 - EO Studio – Technical Lead
@@ -98,7 +100,8 @@ Hello, I am an engineer passionate about creating value through technology. I am
 - Law&Good – Technical Lead
 - Moye – Early-stage team member and core developer
 - FORIF Club Mentor – Django study lead
-- Mentor – System Programming course mentor
+- Mentor – System Programming course mentor at university
+- Army sergeant, honorable discharge
 
 # Languages
 - Korean – Native
