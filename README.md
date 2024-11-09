@@ -31,7 +31,7 @@ Technical Lead of Global Product Team
 - 2024년 4월 - Present
 - 대한민국 서울
 - LLM, embedding, Vector search 등 활용하여 비디오 인터뷰 자료를 기사로 만드는 툴 개발
-- 두 달간 San Francisco로 출장가서 유저 인터뷰 및 빠른 MVP 개발 등 PMF를 찾기위한 활동 진행
+- San Francisco에서 유저 인터뷰 및 빠른 MVP 개발 등 PMF를 찾기위한 활동 진행
 
 ## 로앤굿
 Technical Lead
@@ -55,7 +55,7 @@ Backend Developer
 - 결제 모듈 개발
 - 유닛 테스트 추가
 - API 성능 개선
-- 라우드 비용 최적화
+- 클라우드 비용 최적화
 
 ## 모예
 Backend Developer
@@ -114,7 +114,7 @@ Backend Developer
 - [관련 수업 이수 내역](https://github.com/hongdoojung/RESUME/blob/master/COURSE.md)
 
 # 기타
-- 정보처리기사(2021)
+- 정보처리기사(2021.01)
 - 육군 병장 만기 전역
 
 # 언어
