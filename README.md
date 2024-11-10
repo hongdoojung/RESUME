@@ -4,7 +4,7 @@
 - 생일: 1995.11.27
 - 지역: 서울
 
-안녕하세요. 저는 기술로써 세상에 가치를 만드는 일을 좋아하는 엔지니어입니다. 문제 해결을 위해서 새로운 지식을 쌓는 것, 커뮤니케이션, 리더십, 빠른 속도, 지속가능한 과정, 피드백 문화 등 전반에 관심이 있습니다.
+안녕하세요. 저는 기술로써 세상에 가치를 만드는 일을 좋아하는 엔지니어입니다.
 
 # 기술
 
@@ -21,7 +21,7 @@
 ## 기타
 
 - **Fastapi**, **Django**
-- **MySQL**, **Postgresql**
+- MySQL, Postgresql
 - Git
 
 # 경력
@@ -43,7 +43,7 @@ Technical Lead
 - AWS ElasticBeanstalk 등 클라우드와 Iac(Terraform) 활용하여 효율적인 인프라 재구축.
 - 데이터 파이프라인 구축(GCP Bigquery, Airflow, Mixpanel, Amplitude, Google Data Studio)
 - 변호사 AI 챗봇 서빙을 위한 시스템 구축. (관련 기사 https://www.lawtimes.co.kr/news/194051)
-- 개발 팀 리더로서 애자일 문화를 정착시키고 팀이 비즈니스 가치를 낼 수 있도록 힘썼음.
+- 애자일 문화를 정착시키고 팀이 비즈니스 가치를 낼 수 있도록 힘썼음.
 - Google Cloud Academy APAC course 수료.
 
 ## 제로엑스플로우
@@ -53,7 +53,7 @@ Backend Developer
 - 서버리스 형태의 DRF 백엔드 설계, 개발
 - CI/CD 파이프라인 개발
 - 결제 모듈 개발
-- 유닛 테스트 추가
+- TDD 개발 주도
 - API 성능 개선
 - 클라우드 비용 최적화
 
@@ -61,8 +61,8 @@ Backend Developer
 Backend Developer
 - 2020년 1월 - 2020년 12월 (1년)
 - 대한민국 서울
-- 서버리스 형태의 백엔드 설계, 개발, 배포
-- 로깅, 모니터링 시스템 구축
+- 서버리스 형태의 백엔드 설계 및 개발
+- CI/CD 파이프라인 개발
 - 백그라운드 결제 서버 개발
 - 서버 성능 개선
 
@@ -109,8 +109,8 @@ Backend Developer
 - 주전공: 경제금융학과
 - 부전공: 인문소프트웨어
 - 2014.02 ~ 2020.08
-- 이수학점 152점
 - 누적 평점 3.74/4.5
+- 이수학점 152점
 - [관련 수업 이수 내역](https://github.com/hongdoojung/RESUME/blob/master/COURSE.md)
 
 # 기타
