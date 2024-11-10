@@ -1,5 +1,4 @@
 # 프로필
-
 - 이름: 정홍두
 - 생일: 1995.11.27
 - 지역: 서울
@@ -7,19 +6,15 @@
 안녕하세요. 저는 기술로써 세상에 가치를 만드는 일을 좋아하는 엔지니어입니다.
 
 # 기술
-
 ## 언어
-
 - **Python**
 - NodeJS & TypeScript
 
 ## 인프라
-
 - **Docker & Docker Compose**
 - **AWS**, GCP
 
 ## 기타
-
 - **Fastapi**, **Django**
 - MySQL, Postgresql
 - Git
@@ -69,7 +64,6 @@ Backend Developer
 # 외부 활동
 
 ## 기술 세션
-
 - 2022.02 ~ 2022.12
 - 개발자들과 공부한 내용을 공유하는 기술 세션을 진행했습니다.
 - 세션에서 발표한 내용
@@ -80,31 +74,24 @@ Backend Developer
   - [Django 테스트코드](https://separated-guanaco-64b.notion.site/Django-105f3b634110800db75aef874b023bf2?pvs=4)
  
 ## 프로그래밍 동아리 Forif에서 Django 멘토 활동
-
 - 한양대학교 프로그래밍 동아리 FORIF에서 멘토로 Django 스터디를 이끌었습니다.
 - https://www.youtube.com/@hongdoojung9574
 
 # 프로젝트
-
 ## the DeveloperWeek AI/ML 2024 Hackathon in San Francisco - [Linkedin update](https://www.linkedin.com/feed/update/urn:li:activity:7212767328386568192/)
-
 - Together we built an personalized AI assistant that helps everyone organize YouTube shorts, reels and tiktoks, etc. The problem we tackled is all too familiar: we watch & save countless videos, but rarely revisit them due to the difficulty of finding and remembering what we've saved. Our solution uses cutting-edge tech to change that. Our agent, built on a robust tech stack featuring AWS Bedrock, Knowledge Bases for Bedrock, LaunchDarkly, NextJS, and Flask, learns users' preferences and categorizes their saved videos into personalized collectio
 
 ## Junction X 2021 Seoul 해커톤 - [Github repo](https://github.com/TheFootball/server)
-
 - 1:N football game web app specialized to streamer and viewer relationship. AWS Game tech track.
 
 ## 두근두근한양 - [Github repo](https://github.com/weehan-dev/dodohan)
-
 - 2019.09.15 ~ 2019.09.23
 - JS, MongoDB
 - 학교 축제를 맞아 남녀를 매칭해주는 프로그램을 만들었습니다. 매칭을 위해 사람들에게 구글 설문지를 만들어 신청하도록 했습니다. 받은 신청서를 csv 형식으로 파싱하고 매칭 알고리즘으로 매칭되도록 했습니다. 매칭 알고리즘을 알아보고 도입하는 과정이 있었고, 매칭 이후 결과는 MongoDB에 저장 후 축제 당일에 SMS 및 메일로 결과를 발송해줬습니다. 약 500명 가량 참여하며 성공적으로 프로젝트를 마무리 할 수 있었습니다.
 
 
 # 학력
-
 ## 한양대학교
-
 - 서울
 - 주전공: 경제금융학과
 - 부전공: 인문소프트웨어
@@ -118,12 +105,10 @@ Backend Developer
 - 육군 병장 만기 전역
 
 # 언어
-
 - 한국어 (모국어)
 - 영어 (능숙함)
 
 # 링크
-
 - email: <jja02059@gmail.com>
 - [GitHub](https://github.com/hongdoojung)
 - [LinkedIn](https://www.linkedin.com/in/hongdoojung/)
