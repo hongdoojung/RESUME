@@ -31,10 +31,9 @@ Technical Lead of Global Product Team
 Technical Lead
 - 2022년 3월 - 2024년 3월 (2년 1개월)
 - 대한민국 서울
-- FastAPI, DRF, Django Ninja 등 활용하여 변호사 매칭 플랫폼 개발
-- 재시도 큐와 조정 등을 활용하여 실패율 0%에 가까운 신뢰할 수 있는 결제 모듈 개발
+- 재시도 큐와 조정 등을 활용하여 신뢰할 수 있는 결제 모듈 개발 (1년간 기술 문제로 인한 결제 실패 1건)
 - 여러 마이크로서비스에 유닛 테스트, 모니터링 시스템, Terraform 등을 활용하여 유지보수 효율 증대
-- 데이터 파이프라인 구축(GCP Bigquery, Airflow, Mixpanel, Amplitude, Google Data Studio)
+- 데이터 파이프라인 구축 (GCP Bigquery, Airflow, Mixpanel, Amplitude, Google Data Studio)
 - 변호사 AI 챗봇 서빙을 위한 시스템 구축. (관련 기사 https://www.lawtimes.co.kr/news/194051)
 - 애자일 문화를 정착시키고 팀이 비즈니스 가치를 낼 수 있도록 힘썼음
 - Google Cloud Academy APAC course 수료
@@ -47,14 +46,14 @@ Backend Developer
 - CI/CD 파이프라인 개발
 - 결제 모듈 개발
 - TDD 개발 주도 (커버리지 0% -> 80%)
-- API 성능 개선 (평균 3초 이상의 응답 시간을 0.5초 이하로 최적화)
+- API 성능 개선 (10개 이상의 API에서 평균 3초 이상의 응답 시간을 0.5초 이하로 개선)
 - 클라우드 비용 최적화 (이전 대비 60% 수준)
 
 ## 모예
 Backend Developer
 - 2020년 1월 - 2020년 12월 (1년)
 - 대한민국 서울
-- 서버리스 형태의 백엔드 설계 및 개발
+- 서버리스 형태의 DRF 백엔드 설계 및 개발
 - CI/CD 파이프라인 개발
 - 결제 서버 개발
 
